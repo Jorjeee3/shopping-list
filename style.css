@@ -72,6 +72,10 @@ body {
     vertical-align: middle;
 }
 
+.label-text small {
+    opacity: 0.6;
+}
+
 .label-text small::before {
     content: "(";
 }
